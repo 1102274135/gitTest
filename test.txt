@@ -3,4 +3,5 @@ this is
 git
 one more
 branch : dev
-branch :manster commit!
+<<<<<<< HEAD
+branch :manster commit
